@@ -6,7 +6,7 @@ Create a website with bootstrap4 for Adhoc, an office administration service.
 
 Install the project locally
 ```bash
-
+https://github.com/SenayYakut/Adhoc.git
 ```
 
 ## Usage
