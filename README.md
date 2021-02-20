@@ -13,6 +13,7 @@ https://github.com/SenayYakut/Adhoc.git
 
 ## Usage
 Go to 
+https://senayyakut.github.io/Adhoc/
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
