@@ -4,6 +4,8 @@ Adhoc is a Bootstrap 4 Utilities project.
 
 Create a website with bootstrap4 for Adhoc, an office administration service. 
 
+In this project you will have a design spec which was created by a designer. Build the website as close as possible to design spec.
+
 [Design Spec](https://content.codecademy.com/courses/learn-bootstrap-4/adhoc/adhoc%20design%20spec.png)
 
 ## Installation
